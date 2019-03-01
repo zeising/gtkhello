@@ -1,0 +1,8 @@
+option('hello',
+	type: 'boolean',
+	value: 'false',
+	description: 'Enable hello message')
+option('goodbye',
+	type: 'boolean',
+	value: 'false',
+	description: 'Enable goodbye message')
